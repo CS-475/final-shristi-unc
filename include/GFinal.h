@@ -110,6 +110,7 @@ public:
         return nullptr;
     }
 
+   
     /**
      *  Construct a path that, when drawn, will look like a stroke of the specified polygon.
      *  - count is the number of points in the polygon (it will be >= 2)
